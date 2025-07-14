@@ -20,7 +20,7 @@ cd reddit-persona-builder
 2. Make a copy of .env.example and rename it to .env. Fill in your API keys:
   REDDIT_CLIENT_ID=your_reddit_client_id
   REDDIT_CLIENT_SECRET=your_reddit_client_secret
-  GEMINI_API_KEY=your_google_gemini_api_key
+  GOOGLE_API_KEY=your_google_gemini_api_key
 
 3. Install Dependencies
 ```
