@@ -27,7 +27,7 @@ cd reddit-persona-builder
 pip install -r requirements.txt
 ```
 
-4. Run the script
+4. Run the script with the number of posts and comments you want to extract the information from
 ```
 python reddit_persona_script.py <reddit_profile_url> [num_posts] [num_comments]
 ```
